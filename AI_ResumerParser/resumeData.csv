@@ -1,6 +1,6 @@
 id,firstName,lastName,email,phone,education,skills
-1,John,Appleseed,hi@gmail.com,2101234567,n/a,n/a
-2,john,Paul,bye@gmail.com,4561234567,n/a,n/a
-3,John,Perez,die@gmail.com,1234567,n/a,n/a
+1,Edward,Ramirez,edward.ramirez@ttu.ed,4696008004,High School Diploma,Attention to detail.Multilingualism.Customer service.Leadership experience
+2,Matt,Beck,m.Beck@ttu.edu,2818967680,High School Diploma.Associates Degree,Web analytics.SEO and SEM.Database software.API design
+3,Jakob,Saldana,jakob.saldana@ttu.edu,9728387094,High School Diploma.Batchelors Degree, C#.C++.C,Java
 4,Ryan,Perez,Ryan.r.perez@ttu.edu,2108430523,High School Diploma.Batchelors Degree,C.Microsoft word.Java.Swift.Angular.Javascript.Microsoft powerpoint.Python.Mysql.
 5,Paul,Perez,die@gmail.com,1234567,n/a,C#.Java
